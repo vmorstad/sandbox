@@ -1,2 +1,2 @@
 # sandbox
-TestomrÃ¥de
+Dette er et testomrŒde 
