@@ -1,2 +1,3 @@
 # sandbox
-Dette er et testomrŒde 
+Dette er et testomrï¿½de 
+yoyo yoy
